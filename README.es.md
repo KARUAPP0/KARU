@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌿 Karu — Temporizador de enfoque y estudio
+# 🌿 Karü  — Temporizador de enfoque y estudio
 
 **Una app Pomodoro tranquila y sin conexión para concentrarte, estudiar mejor y armar tu racha de productividad.**
 
 🌐 [English](README.md) · **Español** · [Português](README.pt.md)
 
-![Capturas de Karu](images/hero_es.png)
+![Capturas de Karü ](images/hero_es.png)
 
 `focus` · `productividad` · `pomodoro` · `temporizador de estudio` · `concentración` · `sonidos ambiente` · `ruido blanco` · `rachas` · `sin conexión` · `sin anuncios` · `Android`
 
@@ -16,16 +16,16 @@
 
 ---
 
-## ✨ ¿Qué es Karu?
+## ✨ ¿Qué es Karü ?
 
-Karu es un temporizador de enfoque pensado para estudiantes y para cualquiera que quiera avanzar sin distracciones. Elegís tu meta del día, Karu arma tu plan de estudio, tocás iniciar y te concentrás, a tu propio ritmo.
+Karü  es un temporizador de enfoque pensado para estudiantes y para cualquiera que quiera avanzar sin distracciones. Elegís tu meta del día, Karu arma tu plan de estudio, tocás iniciar y te concentrás, a tu propio ritmo.
 
 **Sin cuentas. Sin anuncios. Sin internet. Tus datos no salen de tu celular.**
 
 ## 🚀 Funciones
 
 - ⏱️ **Pomodoro personalizable**: elegí la duración del enfoque, del descanso corto y del largo, o usá un método listo: Clásico (25/5), Largo (50/10) o Anime (20/4).
-- 🎯 **Meta diaria de estudio**: decidí cuántas horas querés estudiar hoy y Karu te arma un plan de sesiones. Si le contás tus horarios libres, te dice si tu meta entra.
+- 🎯 **Meta diaria de estudio**: decidí cuántas horas querés estudiar hoy y Karü  te arma un plan de sesiones. Si le contás tus horarios libres, te dice si tu meta entra.
 - 📈 **Historial y rachas**: mirá tus últimos 7, 14 y 30 días, tu racha de días seguidos y tu récord para mantenerte motivado.
 - 🌧️ **23 sonidos ambiente**: lluvia en la ventana, tormenta, ruido blanco / rosa / marrón, bosque, cafetería acogedora, biblioteca, olas, fogata, piano y más. Con apagado automático.
 - 🕰️ **10 tic-tac y 14 alarmas**, cada uno con su volumen.
@@ -42,7 +42,7 @@ Karu es un temporizador de enfoque pensado para estudiantes y para cualquiera qu
 2. Descargá el último archivo `.apk`.
 3. Abrilo en tu celular y, si Android lo pide, permití instalar desde orígenes desconocidos.
 
-> 🛒 Mi objetivo es publicar Karu en Google Play. ¡Mientras tanto, el APK es la forma de probarla!
+> 🛒 Mi objetivo es publicar Karü  en Google Play. ¡Mientras tanto, el APK es la forma de probarla!
 
 ## 🌱 Unas palabras de quien la hizo
 
@@ -50,7 +50,7 @@ Karu es un temporizador de enfoque pensado para estudiantes y para cualquiera qu
 
 ## ☕ Apoyá el proyecto
 
-Karu es **100% gratuita, sin anuncios y privada**. Publicarla en Google Play requiere pagar una cuenta de desarrollador que por ahora no puedo cubrir. Si Karu te sirve en tu día a día, podés colaborar acá:
+Karü  es **100% gratuita, sin anuncios y privada**. Publicarla en Google Play requiere pagar una cuenta de desarrollador que por ahora no puedo cubrir. Si Karu te sirve en tu día a día, podés colaborar acá:
 
 👉 **[ko-fi.com/karuapp](https://ko-fi.com/karuapp)**
 
