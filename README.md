@@ -25,7 +25,7 @@ Karü  is a focus timer made for students and anyone who wants to get things don
 ## 🚀 Features
 
 - ⏱️ **Customizable Pomodoro timer** — choose your focus, short-break and long-break lengths, or pick a ready-made method: Classic (25/5), Long (50/10) or Anime (20/4).
-- 🎯 **Daily study goal** — pick how many hours you want to study today and Karu builds a plan of sessions for you. Tell it your free time slots and it tells you if your goal fits.
+- 🎯 **Daily study goal** — pick how many hours you want to study today and Karü  builds a plan of sessions for you. Tell it your free time slots and it tells you if your goal fits.
 - 📈 **History & streaks** — see your last 7, 14 and 30 days, your day streak and your personal record to stay motivated.
 - 🌧️ **23 ambient sounds** — rain on the window, thunderstorm, white / pink / brown noise, forest, cozy café, library, ocean waves, campfire, piano and more. Includes a sleep timer.
 - 🕰️ **10 tick-tock sounds and 14 alarms** — with independent volume controls.
