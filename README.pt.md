@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Karu — Timer de foco e estudo
+# 🌿 Karü  — Timer de foco e estudo
 
 **Um app Pomodoro tranquilo e offline para te ajudar a se concentrar, estudar melhor e construir sua sequência de produtividade.**
 
@@ -18,14 +18,14 @@
 
 ## ✨ O que é o Karu?
 
-O Karu é um timer de foco feito para estudantes e para qualquer pessoa que queira render sem distrações. Defina sua meta do dia, o Karu monta seu plano de estudo, aperte iniciar e concentre-se, no seu ritmo.
+O Karü  é um timer de foco feito para estudantes e para qualquer pessoa que queira render sem distrações. Defina sua meta do dia, o Karu monta seu plano de estudo, aperte iniciar e concentre-se, no seu ritmo.
 
 **Sem contas. Sem anúncios. Sem internet. Seus dados não saem do seu celular.**
 
 ## 🚀 Recursos
 
 - ⏱️ **Pomodoro personalizável**: escolha a duração do foco, da pausa curta e da longa, ou use um método pronto: Clássico (25/5), Longo (50/10) ou Anime (20/4).
-- 🎯 **Meta diária de estudo**: escolha quantas horas quer estudar hoje e o Karu monta um plano de sessões. Se você informar seus horários livres, ele diz se a meta cabe.
+- 🎯 **Meta diária de estudo**: escolha quantas horas quer estudar hoje e o Karü  monta um plano de sessões. Se você informar seus horários livres, ele diz se a meta cabe.
 - 📈 **Histórico e sequências**: veja seus últimos 7, 14 e 30 dias, sua sequência de dias seguidos e seu recorde para manter a motivação.
 - 🌧️ **23 sons ambiente**: chuva na janela, tempestade, ruído branco / rosa / marrom, floresta, cafeteria aconchegante, biblioteca, ondas, fogueira, piano e mais. Com desligamento automático.
 - 🕰️ **10 tique-taques e 14 alarmes**, cada um com seu volume.
@@ -42,7 +42,7 @@ O Karu é um timer de foco feito para estudantes e para qualquer pessoa que quei
 2. Baixe o arquivo `.apk` mais recente.
 3. Abra no celular e, se o Android pedir, permita a instalação de fontes desconhecidas.
 
-> 🛒 Meu objetivo é publicar o Karu no Google Play. Até lá, o APK é o jeito de testar!
+> 🛒 Meu objetivo é publicar o Karü  no Google Play. Até lá, o APK é o jeito de testar!
 
 ## 🌱 Uma palavrinha de quem criou
 
@@ -50,7 +50,7 @@ Oi! Eu sou o **LuKz** e este é um dos meus primeiros projetos. Sou iniciante, e
 
 ## ☕ Apoie o projeto
 
-O Karu é **100% gratuito, sem anúncios e privado**. Publicar no Google Play exige uma conta de desenvolvedor que ainda não consigo pagar. Se o Karu te ajuda no dia a dia, você pode contribuir aqui:
+O Karü  é **100% gratuito, sem anúncios e privado**. Publicar no Google Play exige uma conta de desenvolvedor que ainda não consigo pagar. Se o Karu te ajuda no dia a dia, você pode contribuir aqui:
 
 👉 **[ko-fi.com/karuapp](https://ko-fi.com/karuapp)**
 
