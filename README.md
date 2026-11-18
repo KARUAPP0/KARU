@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌿 Karu — Focus & Study Timer
+# 🌿 Karü  — Focus & Study Timer
 
 **A calm, offline Pomodoro and productivity app to help you focus, study deeper and build a streak.**
 
 🌐 **English** · [Español](README.es.md) · [Português](README.pt.md)
 
-![Karu app screenshots](images/hero_en.png)
+![Karü  app screenshots](images/hero_en.png)
 
 `focus` · `productivity` · `pomodoro` · `study timer` · `deep work` · `ambient sounds` · `white noise` · `habit streaks` · `offline` · `no ads` · `Android`
 
@@ -16,9 +16,9 @@
 
 ---
 
-## ✨ What is Karu?
+## ✨ What is Karü ?
 
-Karu is a focus timer made for students and anyone who wants to get things done without distractions. Set your daily goal, let Karu build your study plan, press start, and concentrate — at your own pace.
+Karü  is a focus timer made for students and anyone who wants to get things done without distractions. Set your daily goal, let Karu build your study plan, press start, and concentrate — at your own pace.
 
 **No accounts. No ads. No internet needed. Your data never leaves your phone.**
 
@@ -46,11 +46,11 @@ Karu is a focus timer made for students and anyone who wants to get things done 
 
 ## 🌱 A note from the developer
 
-Hi! I'm **LuKz**, and this is one of my first projects. I'm a beginner, so Karu is still growing and may have bugs or rough edges. If you find one, have an idea, or just want to say hi, please open an [Issue](../../issues) — I'd love to hear from you, and kind, constructive feedback means the world to me. 💛
+Hi! I'm **LuKz**, and this is one of my first projects. I'm a beginner, so Karü  is still growing and may have bugs or rough edges. If you find one, have an idea, or just want to say hi, please open an [Issue](../../issues) — I'd love to hear from you, and kind, constructive feedback means the world to me. 💛
 
 ## ☕ Support the project
 
-Karu is **100% free, ad-free and private**. Publishing on Google Play requires a developer account fee that I can't cover yet. If Karu helps you in your day-to-day, you can chip in here:
+Karü  is **100% free, ad-free and private**. Publishing on Google Play requires a developer account fee that I can't cover yet. If Karü  helps you in your day-to-day, you can chip in here:
 
 👉 **[ko-fi.com/karuapp](https://ko-fi.com/karuapp)**
 
