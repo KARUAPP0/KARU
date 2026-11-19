@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌿 Karü  — Focus & Study Timer
+# 🌿 Karu — Study Timer
 
-**A calm, offline Pomodoro and productivity app to help you focus, study deeper and build a streak.**
+**A calm Pomodoro timer with no ads and no internet needed, so you can sit down, study and keep your streak going.**
 
 🌐 **English** · [Español](README.es.md) · [Português](README.pt.md)
 
-![Karü  app screenshots](images/hero_en.png)
+![Karu app screenshots](images/hero_en.png)
 
 `focus` · `productivity` · `pomodoro` · `study timer` · `deep work` · `ambient sounds` · `white noise` · `habit streaks` · `offline` · `no ads` · `Android`
 
@@ -16,46 +16,53 @@
 
 ---
 
-## ✨ What is Karü ?
+## What is Karu?
 
-Karü  is a focus timer made for students and anyone who wants to get things done without distractions. Set your daily goal, let Karu build your study plan, press start, and concentrate — at your own pace.
+Karu is a timer for studying. Tell it how many hours you want to study today, it builds your sessions, you press Start and get to work. Every session you finish adds to your history and your streak.
 
-**No accounts. No ads. No internet needed. Your data never leaves your phone.**
+**No accounts, no ads and no internet. Everything stays on your phone.**
 
-## 🚀 Features
+## Screenshots
 
-- ⏱️ **Customizable Pomodoro timer** — choose your focus, short-break and long-break lengths, or pick a ready-made method: Classic (25/5), Long (50/10) or Anime (20/4).
-- 🎯 **Daily study goal** — pick how many hours you want to study today and Karü  builds a plan of sessions for you. Tell it your free time slots and it tells you if your goal fits.
-- 📈 **History & streaks** — see your last 7, 14 and 30 days, your day streak and your personal record to stay motivated.
-- 🌧️ **23 ambient sounds** — rain on the window, thunderstorm, white / pink / brown noise, forest, cozy café, library, ocean waves, campfire, piano and more. Includes a sleep timer.
-- 🕰️ **10 tick-tock sounds and 14 alarms** — with independent volume controls.
-- ✅ **Tasks** — create tasks and link them to your sessions.
-- 💡 **Smart suggestions** — recommended focus rhythm, best time of day and daily goal based on what you study (math, memorization, reading, creative work, practice…).
-- 🎨 **Make it yours** — 20 color palettes, light/dark mode and fully custom colors.
-- 💾 **Backup** — export and import your data any time.
-- 🌍 **3 languages** — English, Español and Português.
-- 🔒 **Private by design** — everything is stored only on your device.
+<div align="center">
 
-## 📲 Installation (Android)
+<img src="images/screen_en_today.png" width="24%" alt="Today"> <img src="images/screen_en_history.png" width="24%" alt="History"> <img src="images/screen_en_sounds.png" width="24%" alt="Sounds"> <img src="images/screen_en_settings.png" width="24%" alt="Settings">
+
+</div>
+
+## What's inside
+
+- **A timer that fits you.** Pick the length of focus time, short breaks and long breaks, or use a ready-made method: Classic (25/5), Long (50/10) or Anime (20/4).
+- **Daily goal.** Say how many hours you want to study today and Karu splits them into sessions. If you add your free time slots, it tells you whether your goal fits in the day.
+- **History and streaks.** Check your last 7, 14 and 30 days, your day streak and your personal record.
+- **23 ambient sounds.** Rain on the window, thunderstorm, white, pink and brown noise, forest, café, library, ocean waves, campfire, piano and more. You can set them to switch off on their own.
+- **10 tick-tock sounds and 14 alarms**, each with its own volume.
+- **Tasks** you can link to your sessions.
+- **Suggestions** for rhythm, best time of day and daily goal based on what you study: math, memorizing, reading, something creative or practice.
+- **Make it yours.** 20 color palettes, light and dark mode, and custom colors if none of them fits.
+- **Backup.** Export and import your data whenever you want.
+- **Three languages:** English, Spanish and Portuguese.
+
+## Installation (Android)
 
 1. Go to the [Releases](../../releases) page.
 2. Download the latest `.apk` file.
-3. Open it on your phone and allow "install from unknown sources" if Android asks.
+3. Open it on your phone and, if Android asks, allow installing from unknown sources.
 
-> 🛒 My goal is to publish Karu on Google Play. Until then, the APK is the way to try it!
+> My goal is to get Karu on Google Play. Until then, the APK is the way to try it.
 
-## 🌱 A note from the developer
+## Who's behind it
 
-Hi! I'm **LuKz**, and this is one of my first projects. I'm a beginner, so Karü  is still growing and may have bugs or rough edges. If you find one, have an idea, or just want to say hi, please open an [Issue](../../issues) — I'd love to hear from you, and kind, constructive feedback means the world to me. 💛
+Hi, I'm **LuKz**, and Karu is one of my first projects. I'm a beginner, so it may have bugs or rough edges. If you find one, have an idea, or just want to tell me how it went, open an [Issue](../../issues): I read every one, and kind feedback means a lot.
 
-## ☕ Support the project
+## Support the project
 
-Karü  is **100% free, ad-free and private**. Publishing on Google Play requires a developer account fee that I can't cover yet. If Karü  helps you in your day-to-day, you can chip in here:
+Karu is free, has no ads and is private. To publish it on Google Play I need to pay for a developer account, and I can't cover it yet. If it helps you day to day, you can buy me a coffee:
 
 👉 **[ko-fi.com/karuapp](https://ko-fi.com/karuapp)**
 
-Sharing the app with a friend who studies is also a huge help! ⭐ A star on this repo helps too.
+Sharing it with a friend who studies, or leaving a star on this repo, helps a lot too.
 
-## 📄 License
+## License
 
 © 2026 LuKz. All rights reserved. Please don't copy, redistribute or modify the app without permission.
